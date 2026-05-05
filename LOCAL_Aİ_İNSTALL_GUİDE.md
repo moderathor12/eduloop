@@ -1,6 +1,6 @@
 
 # EduLoop Mobile AI Setup Markdown məzmunu
-"""# 📱 EduLoop: Mobil Local AI Quraşdırma Təlimatı
+ 📱 EduLoop: Mobil Local AI Quraşdırma Təlimatı
 
 Bu sənəd **EduLoop** layihəsinin süni intellekt (AI) funksiyalarını birbaşa smartfon daxilində (server və internet bağlantısı olmadan) tamamilə yerli (local) olaraq necə işlətməli olduğunuzu izah edir. 
 
